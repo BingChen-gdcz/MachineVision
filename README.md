@@ -1,1 +1,1 @@
-# MachineVision
+# Machine Vision
